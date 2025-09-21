@@ -52,10 +52,7 @@ var lyricsData = [
   { text: "Maldita sea, espero que vuelvas a casa", start: 155, end: 161 },
   { text: "ohhhh...", start: 161, end: 164 },
   { text: "vuelve a casa", start: 164, end: 166 },
-  { text: "TE AMO MUCHO MI GUIÑO GUIÑO,  ", start: 166, end: 180},
-  { text: "TE ESPERARE EL TIEMPO QUE SEA, PARA QUE TODO VUELVA A SER COMO ANTES O INCLUSO MEJOR ", start: 180, end: 200 },
-  { text: "RECUERDA NO ESTAS SOLA YO SIEMPRE ESTARE AHI PARA Ti", start: 200, end: 220 }
-  
+  { text: "TE AMO MUCHO MI GUIÑO GUIÑO,  TE ESPERARE EL TIEMPO QUE SEA, PARA QUE TODO VUELVA A SER COMO ANTES O INCLUSO MEJOR. Y RECUERDA NO ESTAS SOLA YO SIEMPRE ESTARE AHI PARA Ti ", start: 166, end: 180},
 ];
 
 
