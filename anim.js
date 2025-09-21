@@ -53,8 +53,8 @@ var lyricsData = [
   { text: "ohhhh...", start: 161, end: 164 },
   { text: "vuelve a casa", start: 164, end: 166 },
   { text: "TE AMO MUCHO MI GUIÑO GUIÑO,  ", start: 166, end: 170 },
-  { text: "TE ESPERARE EL TIEMPO QUE SEA COMO ANTES O INCLUSO MEJOR ", start: 170, end: 175 },
-  { text: "RECUERDA NO ESTAS SOLA YO SIEMPRE ESTARE AHI PARA TO", start: 175, end: 180 }
+  { text: "TE ESPERARE EL TIEMPO QUE SEA PARA VOLVER A SER COMO ANTES O INCLUSO MEJOR ", start: 170, end: 180 },
+  { text: "RECUERDA NO ESTAS SOLA YO SIEMPRE ESTARE AHI PARA TO", start: 180, end: 190 }
   
 ];
 
